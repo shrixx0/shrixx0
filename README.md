@@ -1,6 +1,6 @@
 
 ![code](https://github.com/shrixx0/shrixx0/blob/main/hello%20world%20logo.png)
-![code](
+![code](https://github.com/shrixx0/shrixx0/blob/main/shrii%20name%20logo.png)
 <h1 align="center">Hello world!👋, I'm shri</h1>
 <h3 align="center">A passionate backend developer </h3>
 
