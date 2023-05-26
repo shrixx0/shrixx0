@@ -1,3 +1,5 @@
+![code](https://github.com/shrixx0/shrixx0/blob/main/coollogo_com-6169346.png)
+
 ![code](https://github.com/shrixx0/shrixx0/blob/main/coollogo_com-275771532.png)
 
 <h1 align="center">Hello world!👋, I'm shri</h1>
