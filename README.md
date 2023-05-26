@@ -2,7 +2,7 @@
 ![code](https://github.com/shrixx0/shrixx0/blob/main/hello%20world%20logo.png)
 
 
-<h3 align="center">A passionate backend developer </h3>
+
 
 - 🌱 I’m currently learning **python and it's frameworks**
 
