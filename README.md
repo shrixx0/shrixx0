@@ -1,4 +1,5 @@
-![code](https://github.com/shrixx0/shrixx0/blob/main/coollogo_com-98682030.png)
+![code](align="center" https://github.com/shrixx0/shrixx0/blob/main/coollogo_com-98682030.png)
+
 <h1 align="center">Hello world!👋, I'm shri</h1>
 <h3 align="center">A passionate backend developer </h3>
 
