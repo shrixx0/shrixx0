@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shri</h1>
+<h1 align="center">Hello world!👋, I'm shri</h1>
 <h3 align="center">A passionate backend developer </h3>
 
 - 🌱 I’m currently learning **python and it's frameworks**
