@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python and it's frameworks**
 
-- 📫 How to reach me **shrigavalwad2424@gmail.com**
+- 📫 reach me **shrigavalwad2424@gmail.com**
 
 - ⚡ Fun fact **i don't study😅**
 
