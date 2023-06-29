@@ -9,7 +9,7 @@
 
 - 📫 Reach me **shrigavalwad2424@gmail.com**
 
-- ⚡ Fun fact **i don't study😅**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
